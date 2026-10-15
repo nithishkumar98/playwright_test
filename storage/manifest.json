@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-10-15T18:51:01.477Z",
+  "runs": [
+    {
+      "id": "run-2026-10-15-04-27",
+      "file": "reports/run-2026-10-15-04-27.json",
+      "startTime": "2026-10-15T04:27:38.000Z",
+      "duration": 132648,
+      "stats": {
+        "passed": 76,
+        "failed": 4,
+        "flaky": 7,
+        "skipped": 6
+      },
+      "branch": "main",
+      "commit": "a78ab319f9dda32f5f35001c1d62ec519348f2f7",
+      "playwrightVersion": "1.48.2"
+    },
+    {
+      "id": "run-2026-10-14-03-52",
+      "file": "reports/run-2026-10-14-03-52.json",
+      "startTime": "2026-10-14T03:52:16.000Z",
+      "duration": 138604,
+      "stats": {
+        "passed": 70,
+        "failed": 4,
+        "flaky": 13,
+        "skipped": 6
+      },
+      "branch": "feature/task-transfer",
+      "commit": "994502d39bbc00518e20c2cb13ead968bfbc1097",
+      "playwrightVersion": "1.48.2"
+    },
+    {
+      "id": "run-2026-10-13-03-55",
+      "file": "reports/run-2026-10-13-03-55.json",
+      "startTime": "2026-10-13T03:55:19.000Z",
+      "duration": 135711,
+      "stats": {
+        "passed": 72,
+        "failed": 9,
+        "flaky": 6,
+        "skipped": 6
+      },
+      "branch": "main",
+      "commit": "0831da70d8c66c5518274828eb81a63842ec398e",
+      "playwrightVersion": "1.48.2"
+    },
+    {
+      "id": "run-2026-10-12-03-44",
+      "file": "reports/run-2026-10-12-03-44.json",
+      "startTime": "2026-10-12T03:44:12.000Z",
+      "duration": 131152,
+      "stats": {
+        "passed": 74,
+        "failed": 7,
+        "flaky": 6,
+        "skipped": 6
+      },
+      "branch": "main",
+      "commit": "7164c3f3c0aaf2d1256ca05e2cd3f57190638323",
+      "playwrightVersion": "1.48.2"
+    },
+    {
+      "id": "run-2026-10-11-04-25",
+      "file": "reports/run-2026-10-11-04-25.json",
+      "startTime": "2026-10-11T04:25:55.000Z",
+      "duration": 127738,
+      "stats": {
+        "passed": 73,
+        "failed": 7,
+        "flaky": 7,
+        "skipped": 6
+      },
+      "branch": "main",
+      "commit": "f37232a73f55c9ea4152be542adcf1f8f362b1f2",
+      "playwrightVersion": "1.48.2"
+    },
+    {
+      "id": "run-2026-10-10-04-17",
+      "file": "reports/run-2026-10-10-04-17.json",
+      "startTime": "2026-10-10T04:17:43.000Z",
+      "duration": 131175,
+      "stats": {
+        "passed": 73,
+        "failed": 8,
+        "flaky": 6,
+        "skipped": 6
+      },
+      "branch": "fix/login-lockout",
+      "commit": "be0641cba2d880359d45c4223cdb7f6eb2585300",
+      "playwrightVersion": "1.48.2"
+    }
+  ]
+}

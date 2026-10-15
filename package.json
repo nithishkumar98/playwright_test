@@ -1,0 +1,16 @@
+{
+  "name": "playwright-report-dashboard",
+  "version": "1.0.0",
+  "description": "Static HTML/CSS/JS dashboard for browsing and filtering Playwright JSON reports stored in storage/",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "playwright test",
+    "manifest": "node scripts/build-manifest.mjs",
+    "samples": "node scripts/generate-samples.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0"
+  }
+}
