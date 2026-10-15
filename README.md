@@ -3,6 +3,8 @@
 A zero-build dashboard (plain HTML, CSS and JavaScript modules) for browsing and filtering
 [Playwright JSON reports](https://playwright.dev/docs/test-reporters#json-reporter) kept in `storage/`.
 
+**Live demo:** https://nithishkumar98.github.io/playwright_test/
+
 ## Quick start
 
 ```bash
